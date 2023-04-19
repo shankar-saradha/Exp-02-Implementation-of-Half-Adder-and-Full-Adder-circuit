@@ -67,5 +67,5 @@ endmodule
 <img width="708" alt="ss4" src="https://user-images.githubusercontent.com/93978702/233144895-7bd89d13-b97a-4d49-9d19-2db9b62a0ac6.png">
 <img width="775" alt="ss5" src="https://user-images.githubusercontent.com/93978702/233144932-7696a404-17b1-4195-8839-f0458c210569.png">
 <img width="787" alt="ss6" src="https://user-images.githubusercontent.com/93978702/233144954-14006aec-0b91-4b1b-8f99-9e0f338809e3.png">
-# Result 
+### Result 
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
